@@ -3,6 +3,12 @@
 ![example workflow](https://github.com/baler-compressor/baler/actions/workflows/test_and_lint.yaml/badge.svg)
 ![example workflow](https://github.com/baler-compressor/baler/actions/workflows/docker.yaml/badge.svg)
 
+This is a fork of the original baler-collaboration/baler repository, which is licensed under the Apache 2.0 License.
+This version has been modified to include:
+- Energy consumption and carbon emissions tracking using CodeCarbon and GreenAlgorithms.
+- Jupyter Notebooks for plotting results.
+- Scripts for training, compressing, decompressing data analysis.
+
 # Introduction
 Baler is a tool used to test the feasibility of compressing different types of scientific data using machine learning-based autoencoders. Baler provides you with an easy way to:
 1. Train a machine learning model on your data
